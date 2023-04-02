@@ -20,7 +20,7 @@ VITE_Open_AI_Key = {insert your open ai api key here}
 5. command click on http://localhost:3000 that comes up
 
 # How to use application
-- once everything is set up just tpe in a list of three key words you would like the story to use in input field
+- once everything is set up just type in the input field a list of three key words you would like the story to use
 - click enter or press generate story button to generate story based on keywords
 - wait for application to generate story you will see generating story...
 
