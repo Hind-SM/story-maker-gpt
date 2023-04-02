@@ -12,7 +12,7 @@ you need to have:
 
 1. clone repository to local machine
 2. run npm install in terminal
-3. create .env file in the project's root directory and you can add your own openai api key like this:
+3. in the .env file in the project's root directory and you can add your own openai api key like this:
 
 VITE_Open_AI_Key = {insert your open ai api key here}
 
