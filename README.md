@@ -11,7 +11,7 @@ you need to have:
 - react
 
 1. clone repository to local machine
-2. run npm install in terminal
+2. run 'npm install' in terminal
 3. in the .env file in the project's root directory and you can add your own openai api key like this:
 
 VITE_Open_AI_Key = {insert your open ai api key here}
